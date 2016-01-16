@@ -1,0 +1,29 @@
+{
+  "name": "maptoor-map-controls",
+  "version": "1.0.0",
+  "description": "A zoom control to use with GoogleMaps",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasx/maptoor-map-controls.git"
+  },
+  "keywords": [
+    "MapToor",
+    "Google",
+    "Maps"
+  ],
+  "author": "pasx <pasx@orcon.net.nz> (https://pasx.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasx/maptoor-map-controls/issues"
+  },
+  "homepage": "https://github.com/pasx/maptoor-map-controls#readme"
+}
